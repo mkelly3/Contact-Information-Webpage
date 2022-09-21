@@ -6,6 +6,7 @@
 }
 header {
     position: fixed;
+ 
 }
 
 
@@ -29,14 +30,17 @@ nav li {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    background-color: green;
+    background-color: darkblue;
     color: #ffffff;
 }
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-    
+section{
+    background-color: darkgrey;
+}
+.name {
+    background-color: grey;
+}
+
+.footer h1 {
+   color: yellow; 
 }
  
